@@ -1,0 +1,14 @@
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.csprojAssemblyReference.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.AssemblyInfoInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.AssemblyInfo.cs
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.csproj.CoreCompileInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.deps.json
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.DataSerializer.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Models.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.DataSerializer.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Models.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.csproj.CopyComplete
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Release\netcoreapp3.1\InvoiceWorker.Events.Integration.Services.pdb

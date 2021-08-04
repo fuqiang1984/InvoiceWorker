@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgpyNCWENwuX+bzR9x/JOuMnx50g+odMq9KeLTwygMkDLcKIKbG0zAZWVonC5Ztb8ml8h9q+3zeTByoq+p1X+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FuQia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\FuQia\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\FuQia\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\FuQia\\.nuget\\packages\\pdfsharpcore\\1.2.16\\pdfsharpcore.1.2.16.nupkg.sha512",
+    "C:\\Users\\FuQia\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta0013\\sixlabors.fonts.1.0.0-beta0013.nupkg.sha512",
+    "C:\\Users\\FuQia\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0\\sixlabors.imagesharp.1.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\FuQia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

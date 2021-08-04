@@ -1,0 +1,14 @@
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.deps.json
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.DataSerializer.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.DataSerializer.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.csprojAssemblyReference.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.AssemblyInfoInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.AssemblyInfo.cs
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.csproj.CoreCompileInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.csproj.CopyComplete
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Integration\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Integration.pdb

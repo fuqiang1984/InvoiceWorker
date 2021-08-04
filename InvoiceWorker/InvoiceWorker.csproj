@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-InvoiceWorker-61C23D67-5720-4C0E-AF30-10BE86EDAF6D</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InvoceWorker.PDF\InvoceWorker.EventDetail.Processors.csproj" />
+    <ProjectReference Include="..\InvoiceWorker.DataSerializer\InvoiceWorker.DataSerializer.csproj" />
+    <ProjectReference Include="..\InvoiceWorker.Document\InvoiceWorker.Document.Services.csproj" />
+    <ProjectReference Include="..\InvoiceWorker.Events.Integration\InvoiceWorker.Events.Integration.Services.csproj" />
+  </ItemGroup>
+</Project>

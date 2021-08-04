@@ -1,0 +1,8 @@
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.deps.json
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\bin\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.AssemblyInfoInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.AssemblyInfo.cs
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.csproj.CoreCompileInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Events.Models\obj\Debug\netcoreapp3.1\InvoiceWorker.Events.Models.pdb

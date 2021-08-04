@@ -1,0 +1,12 @@
+C:\Users\FuQia\source\repos\InvoiceWorker\bin\Debug\netcoreapp2.2\InvoiceWorker.deps.json
+C:\Users\FuQia\source\repos\InvoiceWorker\bin\Debug\netcoreapp2.2\InvoiceWorker.runtimeconfig.json
+C:\Users\FuQia\source\repos\InvoiceWorker\bin\Debug\netcoreapp2.2\InvoiceWorker.runtimeconfig.dev.json
+C:\Users\FuQia\source\repos\InvoiceWorker\bin\Debug\netcoreapp2.2\InvoiceWorker.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\bin\Debug\netcoreapp2.2\InvoiceWorker.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.csprojAssemblyReference.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.csproj.CoreCompileInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.AssemblyInfoInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.AssemblyInfo.cs
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\obj\Debug\netcoreapp2.2\InvoiceWorker.genruntimeconfig.cache

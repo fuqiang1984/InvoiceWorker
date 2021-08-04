@@ -1,0 +1,12 @@
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.csprojAssemblyReference.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.AssemblyInfoInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.AssemblyInfo.cs
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.csproj.CoreCompileInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\bin\Release\netcoreapp3.1\InvoiceWorker.Document.Services.deps.json
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\bin\Release\netcoreapp3.1\InvoiceWorker.Document.Services.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\bin\Release\netcoreapp3.1\InvoiceWorker.Document.Services.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Models.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\bin\Release\netcoreapp3.1\InvoiceWorker.Events.Models.pdb
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.csproj.CopyComplete
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.dll
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Release\netcoreapp3.1\InvoiceWorker.Document.Services.pdb

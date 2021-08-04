@@ -1,0 +1,4 @@
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Debug\netcoreapp3.1\InvoiceWorker.Document.csprojAssemblyReference.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Debug\netcoreapp3.1\InvoiceWorker.Document.AssemblyInfoInputs.cache
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Debug\netcoreapp3.1\InvoiceWorker.Document.AssemblyInfo.cs
+C:\Users\FuQia\source\repos\InvoiceWorker\InvoiceWorker.Document\obj\Debug\netcoreapp3.1\InvoiceWorker.Document.csproj.CoreCompileInputs.cache

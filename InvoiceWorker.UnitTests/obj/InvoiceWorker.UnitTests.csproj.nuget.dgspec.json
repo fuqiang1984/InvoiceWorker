@@ -1,0 +1,462 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.UnitTests\\InvoiceWorker.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoceWorker.PDF\\InvoceWorker.EventDetail.Processors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoceWorker.PDF\\InvoceWorker.EventDetail.Processors.csproj",
+        "projectName": "InvoceWorker.EventDetail.Processors",
+        "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoceWorker.PDF\\InvoceWorker.EventDetail.Processors.csproj",
+        "packagesPath": "C:\\Users\\FuQia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoceWorker.PDF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FuQia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj"
+              },
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj",
+        "projectName": "InvoiceWorker.DataSerializer",
+        "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj",
+        "packagesPath": "C:\\Users\\FuQia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FuQia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj",
+        "projectName": "InvoiceWorker.Document.Services",
+        "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj",
+        "packagesPath": "C:\\Users\\FuQia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FuQia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "PdfSharpCore": {
+              "target": "Package",
+              "version": "[1.2.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Integration\\InvoiceWorker.Events.Integration.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Integration\\InvoiceWorker.Events.Integration.Services.csproj",
+        "projectName": "InvoiceWorker.Events.Integration.Services",
+        "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Integration\\InvoiceWorker.Events.Integration.Services.csproj",
+        "packagesPath": "C:\\Users\\FuQia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FuQia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj",
+        "projectName": "InvoiceWorker.Events.Models",
+        "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\InvoiceWorker.Events.Models.csproj",
+        "packagesPath": "C:\\Users\\FuQia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FuQia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.UnitTests\\InvoiceWorker.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.UnitTests\\InvoiceWorker.UnitTests.csproj",
+        "projectName": "InvoiceWorker.UnitTests",
+        "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.UnitTests\\InvoiceWorker.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\FuQia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FuQia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoceWorker.PDF\\InvoceWorker.EventDetail.Processors.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoceWorker.PDF\\InvoceWorker.EventDetail.Processors.csproj"
+              },
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.DataSerializer\\InvoiceWorker.DataSerializer.csproj"
+              },
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Document\\InvoiceWorker.Document.Services.csproj"
+              },
+              "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Integration\\InvoiceWorker.Events.Integration.Services.csproj": {
+                "projectPath": "C:\\Users\\FuQia\\source\\repos\\InvoiceWorker\\InvoiceWorker.Events.Integration\\InvoiceWorker.Events.Integration.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

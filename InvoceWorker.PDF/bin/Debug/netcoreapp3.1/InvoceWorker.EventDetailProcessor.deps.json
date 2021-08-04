@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InvoceWorker.EventDetailProcessor/1.0.0": {
+        "dependencies": {
+          "InvoiceWorker.Events.Models": "1.0.0"
+        },
+        "runtime": {
+          "InvoceWorker.EventDetailProcessor.dll": {}
+        }
+      },
+      "InvoiceWorker.Events.Models/1.0.0": {
+        "runtime": {
+          "InvoiceWorker.Events.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvoceWorker.EventDetailProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvoiceWorker.Events.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
