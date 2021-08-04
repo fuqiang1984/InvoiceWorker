@@ -23,10 +23,10 @@ This is a POC to poll events from a mock endpoint.And create, update or delete i
 ## Overall design
 Working process:
 
--> Invoice worker will constantly polling the latest event json and deserialize it to be event detail object via eventservice.
--> Invoice will send each invoice to Event Processor.
--> Invoice processor will process the invoice according to the type of request (INVOICE_CREATED,INVOICE_UPDATED,INVOICE_DELETED)
--> The document service will create, update or delete invoice.
+1. Invoice worker will constantly polling the latest event json and deserialize it to be event detail object via eventservice.
+2. Invoice will send each invoice to Event Processor.
+3. Invoice processor will process the invoice according to the type of request (INVOICE_CREATED,INVOICE_UPDATED,INVOICE_DELETED)
+4. The document service will create, update or delete invoice.
 
 
 
