@@ -49,10 +49,10 @@ Invoice.Document.Services:
 2. PdfSharpCore 1.2.6 is installed as the package to handle the creation of pdf.
 
 InvoiceWorker.Events.Integration.Services:
-1. Connect to events endpoints to get back the event json response and translate it to be object of event detail.
+Connect to mock endpoints of event to get  the event json response and translate it to be object of event detail.
 
 InvoiceWorker.Event.Models:
-1. Definition of event detail models.
+Event models
 
 
 ## Mock endpoint
