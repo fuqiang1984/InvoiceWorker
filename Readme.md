@@ -24,21 +24,20 @@ This is a POC to poll events from a mock endpoint.And create, update or delete i
 Working process:
 
 1. Invoice worker will be constantly polling the latest event json and deserialize it to be event detail object via eventservice.
-2. Invoice will send each invoice to Event Processor.
+2. Invoice will send each invoice to the relative event processor.
 3. Invoice processor will process the invoice according to the type of request (INVOICE_CREATED,INVOICE_UPDATED,INVOICE_DELETED)
 4. The document service will create, update or delete invoice as pdf files.
 
 
 
 InvoiceWorker: 
-1. It is a startup project with worker service constantly polling the latest event via EventService.
-2. A txt file called LatestEventID to store the latest event id.It is used to make sure to process the event feed from the previous position it left off.
-3. InvoiceWorker will trigger EventDetail processor to create, update or delete pdf files.
+1. It is a worker service constantly polling the latest event via event service.
+2. InvoiceWorker will trigger EventDetail processor to create, update or delete pdf files.
 
 InvoiceWorker.EventDetailProcessors
-1. Strategy pattern to make sure it can be resilient and easy to extend.
+1. Making use of strategy design pattern to make sure it can be resilient and easy to extend.
 e.g. When some new type of action is required, just add one more processor to handle the new type.
-2. Handle different types of request (INVOICE_CREATED,INVOICE_UPDATED,INVOICE_DELETED)
+2. Handle different types of request (INVOICE_CREATED, INVOICE_UPDATED, INVOICE_DELETED)
 
 
 InvoiceWorker.DataSerializer:
@@ -57,9 +56,8 @@ InvoiceWorker.Event.Models:
 
 
 ## Mock endpoint
-1.For the get request 'GET /invoices/events?pageSize=1&afterEventId=0', 
+'GET /invoices/events?pageSize=1&afterEventId=0', 
 
-2. For the get request 'GET /invoices/events?pageSize=1&afterEventId=0'
 
 <!-- ROADMAP -->
 ## Roadmap
